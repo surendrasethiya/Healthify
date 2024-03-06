@@ -1,7 +1,4 @@
-# Kratin Assignment
 
-Helping Sunita Sharma (65+ years
-old) to live a healthier and better life with the help of Salubify
 
 ## Features
 
@@ -9,8 +6,5 @@ old) to live a healthier and better life with the help of Salubify
 - Feature 2: Diet
 - Feature 3: Yoga Asanas
 - Feature 4: BMI
-
-## Video
-https://user-images.githubusercontent.com/120631631/235304206-cb79b33f-4e52-4d77-9cf0-29e99bbf2633.mp4
  
-## Deployment Link:- [kratin-assignment-awvq69ddz-sushobit](https://kratin-assignment-awvq69ddz-sushobit.vercel.app)
+## Deployment Link:- (https://healthify-iota.vercel.app/)
