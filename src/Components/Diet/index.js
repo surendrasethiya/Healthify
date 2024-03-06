@@ -42,7 +42,7 @@ function Diet() {
     return (
         <div>
             <div className='diettop'>
-                <p>Salubify Nutrition</p>
+                <p>Healthify Nutrition</p>
                 <h1>Healthy Eating Refresh</h1>
                 <p>Healthy eating in real life</p>
             </div>
@@ -98,7 +98,7 @@ function Diet() {
                         <Heading>5 Healthy & Quick Snacks </Heading>
                         </Card>
                 </div>
-                <h1 className='ending'>Sunita, as we age, our dietary needs may change. It's important to know the appropriate serving sizes and nutritional requirements for your age. If you're unsure about what to eat, consult with your healthcare provider, a family member, or a registered dietitian. 
+                <h1 className='ending'>As we age, our dietary needs may change. It's important to know the appropriate serving sizes and nutritional requirements for your age. If you're unsure about what to eat, consult with your healthcare provider, a family member, or a registered dietitian. 
                 Remember to prioritize your health and speak with your doctor about any concerns or specific health needs you may have.</h1>
             </div>
 

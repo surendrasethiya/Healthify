@@ -41,7 +41,7 @@ const Yoga = () => {
     return(
         <div>
              <div className='yogatopcontainer'>
-               <h1>Midweek Yoga Reset with Salubify, <br/>The Self Care Doula</h1>
+               <h1>Midweek Yoga Reset with Healthify, <br/>The Self Care Doula</h1>
              </div>
              <div className='yogavideocontainer'>
                 <h1>6 Valuable Yoga Asanas for Senior Citizens</h1>
@@ -138,7 +138,7 @@ const Yoga = () => {
 
                 </div>
                 <h1 className='ending'>"Yoga is not about touching your toes, it's about what you learn on the way down. 
-                Keep practicing and embrace the journey towards a healthier and happier you, Sunita."</h1>
+                Keep practicing and embrace the journey towards a healthier and happier you."</h1>
              </div>
         </div>
     )
